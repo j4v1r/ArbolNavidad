@@ -22,7 +22,7 @@ public class Luces extends DecoratorArbol{
     }
 
     private void ponerLuces(Arbol arbolDecorado) {
-        System.out.println("y ahora tiene luces...");
+        System.out.println("y ahora tiene luces luminosas...");
     }
     
 }

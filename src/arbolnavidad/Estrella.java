@@ -22,7 +22,7 @@ public class Estrella extends DecoratorArbol{
     }
 
     private void ponerEstrella(Arbol arbolDecorado) {
-        System.out.println("y ahora tiene una estrella... ");
+        System.out.println("y ahora tiene una estrella brillante... ");
     }
     
 }

@@ -22,7 +22,7 @@ public class Esferas extends DecoratorArbol{
     }
 
     private void ponerEsferas(Arbol arbolDecorado) {
-        System.out.println("y ahora tiene esferas...");
+        System.out.println("y ahora tiene esferas bonitas...");
     }
     
 }
